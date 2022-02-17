@@ -1,0 +1,6 @@
+start
+input number a, number b
+then square a and square b
+then add square a to square b
+then print add
+stop 
